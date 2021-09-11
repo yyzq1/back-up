@@ -1,3 +1,3 @@
 if __name__=="__main__":
     print("hello world")
-    '高鹏sb'
+    '高鹏SB'
